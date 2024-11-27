@@ -1,4 +1,4 @@
 # Photopea-Offline
 Download Photopea for offline use
 
-New Link is here: https://codeberg.org/DUOLabs333/photopea-v2
+New Link is here: https://gitflic.ru/project/photopea-v2/photopea-v-2
